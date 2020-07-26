@@ -1,6 +1,6 @@
 # Easy-breakfast
 
-Program Description/Purpose
+## Program Description/Purpose
 
 The United States of America has a serious eating problem, and it might not be the kind of eating problem that usually comes to mind. Did you know it is estimated that as many as 31 million people in the U.S. skip breakfast every day? A recent study by the National Purchase Diary Panel found that as many as 28% of males between the ages of 18-34 skip breakfast regularly (the statistic is 18% for females in the same age group.) This is a big problem because the International Journal of Gastronomy and Food Science and the Harvard School of Public Health both list breakfast as the most important meal of the day.
         	
