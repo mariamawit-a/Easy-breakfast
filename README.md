@@ -18,12 +18,12 @@ The following functionality is complete:
 
 The following functionality could be implemented:
 
-* [] User can add and save their own recipe 
+* [ ] User can add and save their own recipe 
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imagizer.imageshack.com/img924/293/0wBxZt.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
++<img src="/ezgif.gif?raw=true" width="200px">
 
 GIF created with [ezgif](https://ezgif.com).
