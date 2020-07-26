@@ -24,6 +24,6 @@ The following functionality could be implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="/ezgif.gif?raw=true">
+<img src="/ezgif.gif?raw=true" width="100%">
 
 GIF created with [ezgif](https://ezgif.com).
