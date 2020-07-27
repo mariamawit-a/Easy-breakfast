@@ -36,6 +36,6 @@ Here's a walkthrough of implemented user stories:
 GIF created with [ezgif](https://ezgif.com).
 
 ## Logo
-<img src ="/img/Easy%20Breakfast%20.ico" width="30px">
+<img src ="/img/Easy%20Breakfast%20.ico" width="200px">
 
 
