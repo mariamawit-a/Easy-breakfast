@@ -33,8 +33,9 @@ The following functionality could be implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src="/ezgif.gif?raw=true" width="100%">
+GIF created with [ezgif](https://ezgif.com).
 
 ## Logo
-<img src ="/img/Easy%20Breakfast%20.ico" width="100%">
+<img src ="/img/Easy%20Breakfast%20.ico" width="30px">
 
-GIF created with [ezgif](https://ezgif.com).
+
