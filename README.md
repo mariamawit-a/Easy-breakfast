@@ -20,10 +20,21 @@ The following functionality could be implemented:
 
 * [ ] User can add and save their own recipe 
 
+## Tech/framework used
+**Language**
+- Java
+- Java FX API
+- HTML
+**Platform**
+- Netbean
+
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
 <img src="/ezgif.gif?raw=true" width="100%">
+
+## Logo
+<img src ="/img/Easy%20Breakfast%20.ico" width="100%">
 
 GIF created with [ezgif](https://ezgif.com).
